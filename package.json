@@ -152,6 +152,7 @@
     "chromium-bidi": "14.0.0",
     "debug": "^4.4.3",
     "devtools-protocol": "0.0.1608973",
+    "handlebars": "^4.7.9",
     "playwright": "^1.60.0",
     "puppeteer": "^25.0.2",
     "typed-query-selector": "^2.12.2",
